@@ -15,3 +15,8 @@ adentro, y lo instalan al próximo arranque. Un paquete sin firma válida no se 
 
 Los releases los publica la acción del repositorio de código al crear un tag `v*`. No se suben a
 mano.
+
+## Guías de instalación
+
+- [Dos negocios en la misma caja](guias/dos-negocios-en-la-misma-caja.md): detal y mayoreo en el
+  mismo equipo, con la misma impresora y la misma báscula.
