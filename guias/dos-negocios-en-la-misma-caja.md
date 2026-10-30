@@ -3,6 +3,10 @@
 Instrucciones completas para trabajar dos negocios independientes —por ejemplo un **detal** y un
 **mayoreo**— en el mismo computador, con la misma impresora y la misma báscula.
 
+> **Decidido el 2026-10-30:** de los dos, solo el negocio del `localhost` se maneja completo; el
+> segundo se trabaja offline y no se le dedica más instalación. La báscula compartida entre los dos
+> no se pudo soltar ni pasar en el local, y no es urgente.
+
 > **Es un caso especial.** Si el local tiene un solo negocio, no haga nada de esto: todo sigue
 > funcionando como siempre.
 
